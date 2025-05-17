@@ -16,4 +16,4 @@ correspondentes e a classificação da aferição, observações sobre os dados 
 Mais dinâmico, assertivo e automatizado, aplicando os conhecimentos adquiridos no curso, incluindo a criação de um chatbot
 para interação e agentes para a execução das tarefas.
 
-Utilizar as imagens na pasta IMAGES
+Ps: Utilizar uma ou mais imagens na execução da Célula 4: Upload das Fotos e Processamento - afericao*.jpeg
