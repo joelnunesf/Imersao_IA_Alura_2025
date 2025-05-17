@@ -4,7 +4,7 @@
 # E-MAIL = JOELNUNESF@GMAIL.COM
 
 O case para o projero MarIA (Monitoramento Arterial Residencial por Inteligência Artificial) nasceu da observação da rotina de Lívia,
-minha esposa, durante a gravidez de nossa filha Maria.
+minha esposa, durante a sua gravidez de nossa filha Maria.
 Diante da necessidade de monitorar a pressão arterial três vezes ao dia, conforme orientação médica devido a fatores de risco,
 surgiu a ideia de otimizar o processo manual de anotação e envio semanal dos dados ao cardiologista.
 Este case para a Imersão IA 3ª edição da Alura explora o desenvolvimento de um sistema em Python no Colab que, utilizando a Gemini AI,
