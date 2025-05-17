@@ -1,5 +1,3 @@
-# @title Apresentação (MarIA - Monitoramento Arterial Residencial com Inteligencia Artificial)
-
 # Título Principal: MarIA: Monitoramento Arterial Residencial com Inteligencia Artificial (Gemini AI)
 
 # ALUNO = JOEL NUNES FERREIRA
@@ -16,4 +14,6 @@ correspondentes e a classificação da aferição, observações sobre os dados 
 Mais dinâmico, assertivo e automatizado, aplicando os conhecimentos adquiridos no curso, incluindo a criação de um chatbot
 para interação e agentes para a execução das tarefas.
 
-Ps: Utilizar uma ou mais imagens na execução da Célula 4: Upload das Fotos e Processamento - afericao*.jpeg
+Ps.1: Utilizar uma ou mais imagens na execução da Célula 4: Upload das Fotos e Processamento - afericao*.jpeg
+
+Ps.2: Ignorar o processo "Célula 12 : Armazenando um evento no Google Agenda", fica para uma próxima tentativa, não consegui implementar.
